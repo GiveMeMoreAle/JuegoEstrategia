@@ -2,12 +2,7 @@ package Juego;
 
 import Estructuras.Casa;
 import IU.Msg;
-import Recursos.Comida;
-import Recursos.Gema;
-import Recursos.Madera;
-import Recursos.Oro;
-import Recursos.Piedra;
-import Recursos.Recurso;
+import Recursos.*;
 import Unidades.Aldeano;
 
 public class Juego {
